@@ -5,7 +5,7 @@ public class Lesson_1 {
         int count = 0;
         for (int i = 0; i < 1000; i++) {
             count++;
-            System.out.println("Count=" + count);
+            System.out.println("Count_value=" + count);
         }
     }
 }
